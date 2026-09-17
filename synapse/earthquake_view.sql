@@ -20,7 +20,7 @@ GO
 
 
 -- Analytics-ready view over Gold Parquet files.
-CREATE VIEW dbo.vw_earthquakes
+CREATE OR ALTER VIEW dbo.vw_earthquakes
 AS
 SELECT *
 FROM OPENROWSET(
