@@ -340,7 +340,7 @@ Because Synapse Serverless queries Parquet directly from the Data Lake, no dedic
 
 The final Gold dataset is consumed through Synapse Serverless SQL and visualized in Power BI.
 
-The dashboard includes:
+The dashboard includes:![Power BI Dashboard](powerbi/DashboardBI.png)
 
 ### KPI Cards
 
