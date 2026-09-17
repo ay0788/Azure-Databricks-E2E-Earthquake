@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 Azure End-to-End Earthquake Lakehouse
+#  Azure End-to-End Earthquake Lakehouse
 
 ### From real-time USGS earthquake data to analytics-ready insights with Azure
 
