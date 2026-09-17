@@ -340,8 +340,6 @@ Because Synapse Serverless queries Parquet directly from the Data Lake, no dedic
 
 The final Gold dataset is consumed through Synapse Serverless SQL and visualized in Power BI.
 
-![Power BI Dashboard](powerbi/Azure_E2E_Earthquake_Dashboard.png)
-
 The dashboard includes:
 
 ### KPI Cards
@@ -570,7 +568,7 @@ using modern Azure data engineering services.
 
 <div align="center">
 
-## 🌍 From Raw Earthquake Events to Actionable Insights
+##  From Raw Earthquake Events to Actionable Insights
 
 **Azure Data Factory • Databricks • PySpark • ADLS Gen2 • Synapse • Power BI**
 
